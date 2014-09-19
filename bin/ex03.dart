@@ -16,7 +16,7 @@ main() {
     } else if (a%3 == 0) {
       print('Fizz');
     } else
-    print(a);
+      print(a);
   } while (a <100 );
-  }
+}
 

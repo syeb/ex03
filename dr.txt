@@ -1,0 +1,6 @@
+ex03
+
+supprimez doc/README.txt
+
+bien
+
